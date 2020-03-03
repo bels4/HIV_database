@@ -1,0 +1,74 @@
+LOCUS       HM586134                 468 bp    DNA     linear   VRL 02-AUG-2010
+DEFINITION  HIV-1 isolate MM12d230_p3 from United Kingdom nef pseudogene,
+            partial sequence.
+ACCESSION   HM586134
+VERSION     HM586134.1
+KEYWORDS    .
+SOURCE      Human immunodeficiency virus 1 (HIV-1)
+  ORGANISM  Human immunodeficiency virus 1
+            Viruses; Retro-transcribing viruses; Retroviridae;
+            Orthoretrovirinae; Lentivirus; Primate lentivirus group.
+REFERENCE   1  (bases 1 to 468)
+  AUTHORS   Turnbull,E.L., Wong,M., Wang,S., Wei,X., Jones,N.A., Conrod,K.E.,
+            Aldam,D., Turner,J., Pellegrino,P., Keele,B.F., Williams,I.,
+            Shaw,G.M. and Borrow,P.
+  TITLE     Kinetics of expansion of epitope-specific T cell responses during
+            primary HIV-1 infection
+  JOURNAL   J. Immunol. 182 (11), 7131-7145 (2009)
+   PUBMED   19454710
+REFERENCE   2  (bases 1 to 468)
+  AUTHORS   Wang,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-JUN-2010) Medicine, University of Alabama at
+            Birmingham, 720 20th Street South, Birmingham, AL 35294, USA
+COMMENT     Annotation information was provided by the author.  Some of the
+            information does not have GenBank feature identifiers and is being
+            provided in the comment section. Information in this section is
+            searchable in HIV Database at Los Alamos (www.hiv.lanl.gov).
+            
+            ##HIVDataBaseData-START##
+            Patient code                :: MM12
+            Sequence Name               :: MM12d230_p3
+            Subtype                     :: G
+            Patient cohort              :: HIV seroconverter cohort
+            Patient health status       :: Early HIV infection (no ART)
+            Patient sex                 :: Male
+            Risk Factor                 :: Unknown
+            Viral Load                  :: 34,900
+            Sample city                 :: London
+            Infection date              :: 10-24-01
+            Sample tissue               :: plasma
+            Culture method              :: uncultured
+            Amplification strategy      :: bulk PCR
+            Days from onset of symptoms :: 230
+            CD4 count                   :: 540
+            DBID                        :: 1029916131
+            ##HIVDataBaseData-END##
+FEATURES             Location/Qualifiers
+     source          1..468
+                     /organism="Human immunodeficiency virus 1"
+                     /proviral
+                     /mol_type="genomic DNA"
+                     /isolate="MM12d230_p3"
+                     /host="Homo sapiens"
+                     /db_xref="taxon:11676"
+                     /country="United Kingdom"
+                     /note="subtype: G"
+     gene            1..>468
+                     /gene="nef"
+                     /pseudo
+     CDS             1..>468
+                     /gene="nef"
+                     /pseudo
+                     /codon_start=1
+ORIGIN      
+        1 atgggtggca agtggtcaaa aagcagcata gtaggatggc cccrggttag ggaragaata
+       61 agrcaaaccc cagtaagaca aaaccctcca gcagcaaaag gagtaggagc agcatctcag
+      121 gatttagata gacayggagc aatmacaagc agtaatacag cacatactaa tcctgactgt
+      181 gcctggctgg aagcacagga ggaagaggag gtaggctttc cagtcargcc acaggtacct
+      241 ttgagaccaa tgacttataa agsagctktc gatctcagcy wctttttaaa agaaaagggg
+      301 ggactggatg ggttaattta ctccaagaaa agacaagaga tccttgattt gtgggtctat
+      361 cacacacaag gattcttccc agattggcag aactacacac cagggccagg gahtagattt
+      421 ccactgacct ttgggtggtg cttcaaacta gtaccaatgg atccagca
+//
+

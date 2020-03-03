@@ -1,0 +1,92 @@
+LOCUS       HM586601                 291 bp    DNA     linear   VRL 25-JUL-2016
+DEFINITION  HIV-1 isolate MM48d113_RC1 from United Kingdom vpr protein (vpr)
+            gene, complete cds; and vif protein (vif) and tat protein (tat)
+            genes, partial cds.
+ACCESSION   HM586601
+VERSION     HM586601.1
+KEYWORDS    .
+SOURCE      Human immunodeficiency virus 1 (HIV-1)
+  ORGANISM  Human immunodeficiency virus 1
+            Viruses; Retro-transcribing viruses; Retroviridae;
+            Orthoretrovirinae; Lentivirus; Primate lentivirus group.
+REFERENCE   1  (bases 1 to 291)
+  AUTHORS   Turnbull,E.L., Wong,M., Wang,S., Wei,X., Jones,N.A., Conrod,K.E.,
+            Aldam,D., Turner,J., Pellegrino,P., Keele,B.F., Williams,I.,
+            Shaw,G.M. and Borrow,P.
+  TITLE     Kinetics of expansion of epitope-specific T cell responses during
+            primary HIV-1 infection
+  JOURNAL   J. Immunol. 182 (11), 7131-7145 (2009)
+   PUBMED   19454710
+REFERENCE   2  (bases 1 to 291)
+  AUTHORS   Turnbull,E.L., Wong,M., Wang,S., Wei,X., Jones,N., Conrod,K.,
+            Aldam,D., Turner,J., Pellegrino,P., Keele,B.F., Williams,I.,
+            Shaw,G. and Borrow,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-JUN-2010) Medicine, University of Alabama at
+            Birmingham, 720 20th Street South, Birmingham, AL 35294, USA
+COMMENT     Annotation information was provided by the author.  Some of the
+            information does not have GenBank feature identifiers and is being
+            provided in the comment section. Information in this section is
+            searchable in HIV Database at Los Alamos (www.hiv.lanl.gov).
+            
+            ##HIVDataBaseData-START##
+            Patient code                :: MM48
+            Sequence Name               :: MM48d113_RC1
+            Patient cohort              :: HIV seroconverter cohort
+            Patient health status       :: Acute HIV infection (no ART)
+            Patient sex                 :: Male
+            Risk Factor                 :: Unknown
+            Viral Load                  :: 5200
+            Sample city                 :: London
+            Sample date                 :: 03.14.06
+            Sample tissue               :: plasma
+            Culture method              :: uncultured
+            Amplification strategy      :: single genome amplification
+            Days from onset of symptoms :: 113
+            CD4 count                   :: 850
+            Subtype                     :: B
+            ##HIVDataBaseData-END##
+FEATURES             Location/Qualifiers
+     source          1..291
+                     /organism="Human immunodeficiency virus 1"
+                     /proviral
+                     /mol_type="genomic DNA"
+                     /isolate="MM48d113_RC1"
+                     /host="Homo sapiens"
+                     /db_xref="taxon:11676"
+                     /country="United Kingdom"
+                     /collection_date="14-Mar-2006"
+                     /note="subtype: B"
+     gene            1..291
+                     /gene="vpr"
+     CDS             1..291
+                     /gene="vpr"
+                     /codon_start=1
+                     /product="vpr protein"
+                     /protein_id="ADK75806.1"
+                     /translation="MEQAPENQGPQREPYNEWTLELLEELKNEAVRHFPRAWLHGLGQ
+                     HIYETYGDTWTGVEAIIRVLQQLLFIHFRIGCQHSRIGIIRRSRARNGASRS"
+     gene            <1..61
+                     /gene="vif"
+     CDS             <1..61
+                     /gene="vif"
+                     /codon_start=2
+                     /product="vif protein"
+                     /protein_id="ADK75805.1"
+                     /translation="WNKPQKTKGHRGSHTMNGH"
+     gene            272..>291
+                     /gene="tat"
+     CDS             272..>291
+                     /gene="tat"
+                     /codon_start=1
+                     /product="tat protein"
+                     /protein_id="ADK75807.1"
+                     /translation="MEPVDP"
+ORIGIN      
+        1 atggaacaag ccccagaaaa ccaagggcca cagagggagc catacaatga atggacacta
+       61 gagcttttag aggagcttaa gaatgaagct gttagacact ttcctagggc atggcttcat
+      121 ggcctagggc agcatatcta tgaaacttat ggggatactt ggacaggagt ggaagccata
+      181 atcagagttc tgcaacaact gctgtttatt catttcagaa ttgggtgtca acatagcaga
+      241 ataggcatta ttcgccgaag cagagcaaga aatggagcca gtagatccta g
+//
+

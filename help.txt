@@ -1,0 +1,12 @@
+This scripts use 5 variables ($1 - $5).
+
+$1 == FLAG: -gb or -lanl
+$2 == DIR: directory will be created and all downloaded files will be stored here
+$3 == PREFIX: Prefix of all accession numbers
+$4 == BEGIN: Begginig number. NOTE: it should be only number without prefix
+$5 == END: Ending number. NOTE: it should be only number without prefix
+
+NOTE: This script won't work without all this variables, please be careful.
+
+Good luck,
+Andrey Kravets

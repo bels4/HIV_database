@@ -1,0 +1,83 @@
+LOCUS       HM586246                 612 bp    DNA     linear   VRL 02-AUG-2010
+DEFINITION  HIV-1 isolate MM46d530_B7 from United Kingdom nef protein (nef)
+            gene, complete cds.
+ACCESSION   HM586246
+VERSION     HM586246.1
+KEYWORDS    .
+SOURCE      Human immunodeficiency virus 1 (HIV-1)
+  ORGANISM  Human immunodeficiency virus 1
+            Viruses; Retro-transcribing viruses; Retroviridae;
+            Orthoretrovirinae; Lentivirus; Primate lentivirus group.
+REFERENCE   1  (bases 1 to 612)
+  AUTHORS   Turnbull,E.L., Wong,M., Wang,S., Wei,X., Jones,N.A., Conrod,K.E.,
+            Aldam,D., Turner,J., Pellegrino,P., Keele,B.F., Williams,I.,
+            Shaw,G.M. and Borrow,P.
+  TITLE     Kinetics of expansion of epitope-specific T cell responses during
+            primary HIV-1 infection
+  JOURNAL   J. Immunol. 182 (11), 7131-7145 (2009)
+   PUBMED   19454710
+REFERENCE   2  (bases 1 to 612)
+  AUTHORS   Turnbull,E.L., Wong,M., Wang,S., Wei,X., Jones,N., Conrod,K.,
+            Aldam,D., Turner,J., Pellegrino,P., Keele,B.F., Williams,I.,
+            Shaw,G. and Borrow,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-JUN-2010) Medicine, University of Alabama at
+            Birmingham, 720 20th Street South, Birmingham, AL 35294, USA
+COMMENT     Annotation information was provided by the author.  Some of the
+            information does not have GenBank feature identifiers and is being
+            provided in the comment section. Information in this section is
+            searchable in HIV Database at Los Alamos (www.hiv.lanl.gov).
+            
+            ##HIVDataBaseData-START##
+            Patient code                :: MM46
+            Sequence Name               :: MM46d530_B7
+            Patient cohort              :: HIV seroconverter cohort
+            Patient health status       :: Chronic HIV infection (no ART)
+            Patient sex                 :: Male
+            Risk Factor                 :: Unknown
+            Viral Load                  :: 166500
+            Sample city                 :: London
+            Sample date                 :: 01.23.07
+            Sample tissue               :: plasma
+            Culture method              :: uncultured
+            Amplification strategy      :: single genome amplification
+            Days from onset of symptoms :: 530
+            CD4 count                   :: 680
+            Subtype                     :: B
+            ##HIVDataBaseData-END##
+FEATURES             Location/Qualifiers
+     source          1..612
+                     /organism="Human immunodeficiency virus 1"
+                     /proviral
+                     /mol_type="genomic DNA"
+                     /isolate="MM46d530_B7"
+                     /host="Homo sapiens"
+                     /db_xref="taxon:11676"
+                     /country="United Kingdom"
+                     /collection_date="23-Jan-2007"
+                     /note="subtype: B"
+     gene            1..612
+                     /gene="nef"
+     CDS             1..612
+                     /gene="nef"
+                     /codon_start=1
+                     /product="nef protein"
+                     /protein_id="ADK75389.1"
+                     /translation="MGGRWSKGKVSGWAAVRERMEKVEPAADGVGAASKDLDKYGAIT
+                     SSNINNADCTWLEAQEEEEVGFPVRPQVPLRPMTYKGALDLSHFLKEKGGLEGLIWSQ
+                     KRQDILDLWVHHTQGYFPDWQNYTPGPGVRYPLTFGWCFKLVPLEPEKIEEATAENNS
+                     LLHPVCLHGMEDPEREVLVWKFDSRLAFHHAAREKHPEYYKDC"
+ORIGIN      
+        1 atgggtggca gatggtcaaa aggaaaagta agtggatggg ctgctgtaag ggaaagaatg
+       61 gaaaaggtgg agccagcagc agatggggtg ggagcagcat ctaaagacct agataaatat
+      121 ggagcaataa caagtagcaa tattaataat gctgattgta cctggttaga agcacaagaa
+      181 gaagaggagg tgggttttcc agtcagacct caggtacctt taagacccat gacttacaag
+      241 ggagctttag atcttagcca ctttttaaaa gaaaaggggg gactggaagg gttaatttgg
+      301 tcccagaaaa gacaagacat ccttgatcta tgggtccacc acacacaagg atatttccct
+      361 gactggcaga actacacacc agggccaggg gtcagatatc cactgacctt cggatggtgc
+      421 ttcaagctag taccattaga gccagagaag atagaggagg ccactgcaga gaacaacagc
+      481 ttgttacacc ctgtgtgcct gcatggaatg gaggacccgg agagagaagt gttagtgtgg
+      541 aagtttgaca gccgcctagc atttcatcac gcagcccgag agaagcatcc ggagtactac
+      601 aaagactgct ga
+//
+

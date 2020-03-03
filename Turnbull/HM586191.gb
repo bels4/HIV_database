@@ -1,0 +1,112 @@
+LOCUS       HM586191                1503 bp    DNA     linear   VRL 25-JUL-2016
+DEFINITION  HIV-1 isolate MM39d11_G1 from United Kingdom gag protein (gag)
+            gene, complete cds; and pol protein (pol) gene, partial cds.
+ACCESSION   HM586191
+VERSION     HM586191.1
+KEYWORDS    .
+SOURCE      Human immunodeficiency virus 1 (HIV-1)
+  ORGANISM  Human immunodeficiency virus 1
+            Viruses; Retro-transcribing viruses; Retroviridae;
+            Orthoretrovirinae; Lentivirus; Primate lentivirus group.
+REFERENCE   1  (bases 1 to 1503)
+  AUTHORS   Turnbull,E.L., Wong,M., Wang,S., Wei,X., Jones,N.A., Conrod,K.E.,
+            Aldam,D., Turner,J., Pellegrino,P., Keele,B.F., Williams,I.,
+            Shaw,G.M. and Borrow,P.
+  TITLE     Kinetics of expansion of epitope-specific T cell responses during
+            primary HIV-1 infection
+  JOURNAL   J. Immunol. 182 (11), 7131-7145 (2009)
+   PUBMED   19454710
+REFERENCE   2  (bases 1 to 1503)
+  AUTHORS   Turnbull,E.L., Wong,M., Wang,S., Wei,X., Jones,N., Conrod,K.,
+            Aldam,D., Turner,J., Pellegrino,P., Keele,B.F., Williams,I.,
+            Shaw,G. and Borrow,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-JUN-2010) Medicine, University of Alabama at
+            Birmingham, 720 20th Street South, Birmingham, AL 35294, USA
+COMMENT     Annotation information was provided by the author.  Some of the
+            information does not have GenBank feature identifiers and is being
+            provided in the comment section. Information in this section is
+            searchable in HIV Database at Los Alamos (www.hiv.lanl.gov).
+            
+            ##HIVDataBaseData-START##
+            Patient code                :: MM39
+            Sequence Name               :: MM39d11_G1
+            Patient cohort              :: HIV seroconverter cohort
+            Patient health status       :: Acute HIV infection (no ART)
+            Patient sex                 :: Male
+            Risk Factor                 :: MSM
+            Viral Load                  :: 1508000
+            Sample city                 :: London
+            Sample date                 :: 04.29.04
+            Sample tissue               :: plasma
+            Culture method              :: uncultured
+            Amplification strategy      :: bulk PCR
+            Days from onset of symptoms :: 11
+            CD4 count                   :: 680
+            Subtype                     :: B
+            ##HIVDataBaseData-END##
+FEATURES             Location/Qualifiers
+     source          1..1503
+                     /organism="Human immunodeficiency virus 1"
+                     /proviral
+                     /mol_type="genomic DNA"
+                     /isolate="MM39d11_G1"
+                     /host="Homo sapiens"
+                     /db_xref="taxon:11676"
+                     /country="United Kingdom"
+                     /collection_date="29-Apr-2004"
+                     /note="subtype: B"
+     gene            1..1503
+                     /gene="gag"
+     CDS             1..1503
+                     /gene="gag"
+                     /codon_start=1
+                     /product="gag protein"
+                     /protein_id="ADK75277.1"
+                     /translation="MGARASVLSGGELDKWEKIRLRPGGKKKYKLKHIVWASRELERF
+                     AVNPGLLETSEGCRQILEQLQPSLQTGSEELKSLYNTIATLYCVHQKIEIKDTKEALD
+                     KIEEEQNKRKKKAQQAAADTGNNSQVSQNYPIVQNLQGQMVHQPLTPRTLNAWVKVIE
+                     EKAFSPEVIPMFSALSEGATPQDLNTMLNTVGGHQAAMQMLKETINEEAAEWDRIHPV
+                     HAGPIAPGQMREPRGSDIAGTTSTLQEQIGWMTSNPPIPVGEIYKRWIILGLNKIVRM
+                     YSPVSILDIKQGPKEPFRDYVDRFYKTLRAEQATQEVKNWMTETLLVQNANPDCKTIL
+                     KALGPAATLEEMMTACQGVGGPSHKARVLAEAMSQVTNSSAIMMQRGNFKNQRKNVKC
+                     FNCGKEGHIAKNCRAPRKRGCWKCGQEGHQMKDCTERQANFLGKIWPSHKGRPGNFLQ
+                     SRPEPSAPPEESFRFGEETATPSQKQERIDKEQYPLTSLRSLFGNDPLSQ"
+     gene            <1296..>1503
+                     /gene="pol"
+     CDS             <1296..>1503
+                     /gene="pol"
+                     /codon_start=1
+                     /product="pol protein"
+                     /protein_id="ADK75278.1"
+                     /translation="FFRENLAFPQGKAREFPSEQTRAISPTGRELQVWGRDSDSLSEA
+                     RADRQGTVSFNLPQITLWQRPLVTI"
+ORIGIN      
+        1 atgggtgcga gagcgtcagt attaagcggg ggagaattag ataaatggga aaaaattcgg
+       61 ttgaggccag ggggaaagaa aaaatataaa ctaaaacata tagtatgggc aagcagggag
+      121 ctagaacgat ttgcagttaa tcccggcctg ttagaaacat cagaaggctg tagacaaata
+      181 ttagaacagc tacagccatc ccttcagaca ggatcagaag aacttaaatc attatataat
+      241 acaatagcaa ctctctattg tgtgcatcaa aagatagaga taaaagacac caaggaagct
+      301 ctagacaaga tagaggaaga gcaaaataaa aggaagaaaa aggcacagca agcagcagct
+      361 gacacaggaa acaacagcca ggtcagccaa aattacccta tagtgcagaa ccttcagggg
+      421 caaatggtac atcaacccct aacacctaga actttaaatg catgggtaaa agtaatagaa
+      481 gagaaggctt ttagcccaga ggtaatacca atgttttcag cattatcaga aggggccacc
+      541 ccacaggatt taaacaccat gctaaacaca gtggggggac atcaagcagc catgcaaatg
+      601 ttaaaagaga ctatcaatga ggaagctgca gaatgggata gaatacatcc agtgcatgca
+      661 gggcctattg caccaggcca aatgagagaa ccaaggggaa gtgatatagc aggaactact
+      721 agtacccttc aggaacaaat aggatggatg acaagtaatc cacctatccc agtaggagaa
+      781 atctataaaa gatggataat cctgggacta aataaaatag taagaatgta tagccctgtc
+      841 agcattctgg atataaaaca aggaccaaaa gaacccttta gagactatgt agaccggttc
+      901 tataaaactc taagagccga gcaagctaca caggaggtaa aaaattggat gacagagacc
+      961 ttgttggtcc agaatgcgaa tccagattgt aagactattt taaaagcatt gggaccagca
+     1021 gctacgctag aagaaatgat gacagcatgt cagggagtgg gaggacccag ccacaaagca
+     1081 agagttttgg cggaagcaat gagccaagta acaaattcat ccgccataat gatgcagaga
+     1141 ggcaatttta agaaccaaag aaaaaatgtt aagtgtttca attgtggcaa agaggggcac
+     1201 atagcaaaaa attgcagagc ccctaggaaa aggggctgtt ggaaatgtgg acaggaagga
+     1261 caccaaatga aagattgtac tgagagacag gctaattttt tagggaaaat ctggccttcc
+     1321 cacaagggaa ggccagggaa tttccttcag agcagaccag agccatcagc cccaccggaa
+     1381 gagagcttca ggtttgggga agagacagcg actccctctc agaagcaaga gcggatagac
+     1441 aaggaacagt atcctttaac ctccctcaga tcactctttg gcaacgaccc cttgtcacaa
+     1501 taa
+//
+

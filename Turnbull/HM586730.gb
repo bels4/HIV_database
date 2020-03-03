@@ -1,0 +1,79 @@
+LOCUS       HM586730                 621 bp    DNA     linear   VRL 02-AUG-2010
+DEFINITION  HIV-1 isolate MM50d32_NB10 from United Kingdom nef pseudogene,
+            complete sequence.
+ACCESSION   HM586730
+VERSION     HM586730.1
+KEYWORDS    .
+SOURCE      Human immunodeficiency virus 1 (HIV-1)
+  ORGANISM  Human immunodeficiency virus 1
+            Viruses; Retro-transcribing viruses; Retroviridae;
+            Orthoretrovirinae; Lentivirus; Primate lentivirus group.
+REFERENCE   1  (bases 1 to 621)
+  AUTHORS   Turnbull,E.L., Wong,M., Wang,S., Wei,X., Jones,N.A., Conrod,K.E.,
+            Aldam,D., Turner,J., Pellegrino,P., Keele,B.F., Williams,I.,
+            Shaw,G.M. and Borrow,P.
+  TITLE     Kinetics of expansion of epitope-specific T cell responses during
+            primary HIV-1 infection
+  JOURNAL   J. Immunol. 182 (11), 7131-7145 (2009)
+   PUBMED   19454710
+REFERENCE   2  (bases 1 to 621)
+  AUTHORS   Turnbull,E.L., Wong,M., Wang,S., Wei,X., Jones,N., Conrod,K.,
+            Aldam,D., Turner,J., Pellegrino,P., Keele,B.F., Williams,I.,
+            Shaw,G. and Borrow,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-JUN-2010) Medicine, University of Alabama at
+            Birmingham, 720 20th Street South, Birmingham, AL 35294, USA
+COMMENT     Annotation information was provided by the author.  Some of the
+            information does not have GenBank feature identifiers and is being
+            provided in the comment section. Information in this section is
+            searchable in HIV Database at Los Alamos (www.hiv.lanl.gov).
+            
+            ##HIVDataBaseData-START##
+            Patient code                :: MM50
+            Sequence Name               :: MM50d32_NB10
+            Patient cohort              :: HIV seroconverter cohort
+            Patient health status       :: Acute HIV infection (no ART)
+            Patient sex                 :: Male
+            Risk Factor                 :: MSM
+            Viral Load                  :: 127400
+            Sample city                 :: London
+            Sample date                 :: 02.13.06
+            Sample tissue               :: plasma
+            Culture method              :: uncultured
+            Amplification strategy      :: single genome amplification
+            Days from onset of symptoms :: 32
+            CD4 count                   :: 400
+            Subtype                     :: B
+            ##HIVDataBaseData-END##
+FEATURES             Location/Qualifiers
+     source          1..621
+                     /organism="Human immunodeficiency virus 1"
+                     /proviral
+                     /mol_type="genomic DNA"
+                     /isolate="MM50d32_NB10"
+                     /host="Homo sapiens"
+                     /db_xref="taxon:11676"
+                     /country="United Kingdom"
+                     /collection_date="13-Feb-2006"
+                     /note="subtype: B"
+     gene            1..621
+                     /gene="nef"
+                     /pseudo
+     CDS             1..621
+                     /gene="nef"
+                     /pseudo
+                     /codon_start=1
+ORIGIN      
+        1 atggggggca agtggtcaaa acgtagtacg agagaatggc ctgctgtaag ggaaagaatg
+       61 caacgagctg agccagcagc agagggggtg ggaccagtat ctcgggactt ggaaaaacat
+      121 ggagcaatca caagtagcaa tacagcagct acaaatgctg cttgtgcctg gctagaagca
+      181 caagaggaag aagaagtggg ctttccagtc agacctcagg tgcctttaag accaatgact
+      241 tacaagggag ctttagatct tagccatttt ttaaaagaaa aggggggact ggaagggcta
+      301 attcactccc agcaaagaca agatatcctt gatctgtggg tctacaacac acaaggctac
+      361 ttccctgatt ggcagaatta cacaccaggg ccagggatca gatatccact gacctttgga
+      421 tggtgcttca agttagtacc agttgataaa gagcaggtag aaaaggccaa cgaaggagag
+      481 aacaactgct tgttacaccc tatgagccag catgggatgg atgacccaga gaaagaagtg
+      541 ttaatgtgga agtttgacag ccacttagca tttcatcaca tggcccgaga gaagcatccg
+      601 gagtactaca agaattgatg a
+//
+
