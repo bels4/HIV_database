@@ -1,0 +1,132 @@
+LOCUS       HM586189                2844 bp    DNA     linear   VRL 25-JUL-2016
+DEFINITION  HIV-1 isolate MM33d201_P3 from United Kingdom pol and gag
+            pseudogenes, partial sequence; and vif protein (vif) gene, partial
+            cds.
+ACCESSION   HM586189
+VERSION     HM586189.1
+KEYWORDS    .
+SOURCE      Human immunodeficiency virus 1 (HIV-1)
+  ORGANISM  Human immunodeficiency virus 1
+            Viruses; Retro-transcribing viruses; Retroviridae;
+            Orthoretrovirinae; Lentivirus; Primate lentivirus group.
+REFERENCE   1  (bases 1 to 2844)
+  AUTHORS   Turnbull,E.L., Wong,M., Wang,S., Wei,X., Jones,N.A., Conrod,K.E.,
+            Aldam,D., Turner,J., Pellegrino,P., Keele,B.F., Williams,I.,
+            Shaw,G.M. and Borrow,P.
+  TITLE     Kinetics of expansion of epitope-specific T cell responses during
+            primary HIV-1 infection
+  JOURNAL   J. Immunol. 182 (11), 7131-7145 (2009)
+   PUBMED   19454710
+REFERENCE   2  (bases 1 to 2844)
+  AUTHORS   Turnbull,E.L., Wong,M., Wang,S., Wei,X., Jones,N., Conrod,K.,
+            Aldam,D., Turner,J., Pellegrino,P., Keele,B.F., Williams,I.,
+            Shaw,G. and Borrow,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-JUN-2010) Medicine, University of Alabama at
+            Birmingham, 720 20th Street South, Birmingham, AL 35294, USA
+COMMENT     Annotation information was provided by the author.  Some of the
+            information does not have GenBank feature identifiers and is being
+            provided in the comment section. Information in this section is
+            searchable in HIV Database at Los Alamos (www.hiv.lanl.gov).
+            
+            ##HIVDataBaseData-START##
+            Patient code                :: MM33
+            Sequence Name               :: MM33d201_P3
+            Patient cohort              :: HIV seroconverter cohort
+            Patient health status       :: Early HIV infection (no ART)
+            Patient sex                 :: Male
+            Risk Factor                 :: MSM
+            Viral Load                  :: 80000
+            Sample city                 :: London
+            Sample date                 :: 01.12.04
+            Sample tissue               :: plasma
+            Culture method              :: uncultured
+            Amplification strategy      :: bulk PCR
+            Days from onset of symptoms :: 201
+            CD4 count                   :: 770
+            Subtype                     :: B
+            ##HIVDataBaseData-END##
+FEATURES             Location/Qualifiers
+     source          1..2844
+                     /organism="Human immunodeficiency virus 1"
+                     /proviral
+                     /mol_type="genomic DNA"
+                     /isolate="MM33d201_P3"
+                     /host="Homo sapiens"
+                     /db_xref="taxon:11676"
+                     /country="United Kingdom"
+                     /collection_date="12-Jan-2004"
+                     /note="subtype: B"
+     gene            <1..2844
+                     /gene="pol"
+                     /pseudo
+     CDS             <1..2844
+                     /gene="pol"
+                     /pseudo
+                     /codon_start=1
+     gene            <1..40
+                     /gene="gag"
+                     /pseudo
+     CDS             <1..40
+                     /gene="gag"
+                     /pseudo
+                     /codon_start=1
+     gene            2789..>2844
+                     /gene="vif"
+     CDS             2789..>2844
+                     /gene="vif"
+                     /codon_start=1
+                     /product="vif protein"
+                     /protein_id="ADK75275.1"
+                     /translation="MENRWQVMIVWQVDRMRI"
+ORIGIN      
+        1 cctcaaatca ctctttggca acgaccccta gtcacaataa ggataggggg gcaactaaag
+       61 gaagctctat tagatacagg agcagatgat acagtgttag aagacatgaa tttgccagga
+      121 agatggaaac caaaaatgat agggggaatt ggaggtttta tcaaagtaag acagtatgat
+      181 cagataccca tagaaatctg tgggcataaa gctataggta cagtattagt aggacctaca
+      241 cctgtcaaca taattggaag aaatctgttg actcagattg gttgcacttt aaatttcccc
+      301 attagtccta ttgaaactgt accagtaaaa ttaaagccag gaatggatgg tccaaaagtt
+      361 aaacaatggc cattgacaga ggaaaaaata aaagcactag tagaaatttg tacagaaatg
+      421 gaaaaggaag ggaaaatttc aaaaattggg cctgaaaatc cayataatac tccagtattt
+      481 gccataaaga aaaaagatag tactaaatgg agaaaattag tagatttcag agaacttaat
+      541 aagagaactc aagacttctg ggaagtccaa ttagggatac cacatcccgc agggttaaaa
+      601 aagaaaaaat cagtaacagt actagacgtg ggtgatgcat atttttcagt tcccttagat
+      661 aaggacttca ggaagtayac tgcatttacc atacctagta caaacaatga gacaccaggg
+      721 attagatatc agtacaatgt acttccacaa ggatggaaag gatcaccagc aatattccaa
+      781 tgtagcatga caaaaatctt ggagcctttt agaaaacaaa atccagacat agttatctat
+      841 caatacatgg atgatttgta tataggatct gacttagaaa tagggcaaca tagaacaaaa
+      901 atagaggaac tgagacaaca tctgttgagg tggggattta ccacaccaga caaaaaacat
+      961 cagaaagaac ctccattcct ttggatgggt tatgaactcc atcctgataa gtggacagta
+     1021 cagcctatag tgctgccaga aaaagacagc tggactgtca atgacataca gaagttagtg
+     1081 ggaaaattaa attgggcaag tcagatttat gcagggatta aagtaaggca attatgtaaa
+     1141 ctccttaggg gagccaaagc actaacagaa gtaatacccy taacagaaga agcagagcta
+     1201 gaaytagcag aaaacaggga aattctaaaa gaaccagtac atggagcata ttatgaccca
+     1261 tcaaaagact taatagcaga aatacagaaa caggggctag gccaatggac atatcagatt
+     1321 taccaagagc catttaaaaa tctgaaaaca ggaaaatatg caaaaatgag gggtgcccac
+     1381 actaatgatg taaaacaatt aacagaggca gtgcaaaaaa tagccacaga aagcatagta
+     1441 atatggggaa agactcctaa atttaaacta cccatacaaa aggaaacatg ggaagcatgg
+     1501 tggacagagt attggcaagc cacctggatt cctgagtggg agtttgtcaa tacccctccc
+     1561 ttagtaaaac tatggtacca gttagaaaag gagcccatag aaggagcaga aactttctat
+     1621 gtagatgggg cagctaacag ggaaactaaa ttaggaaaag caggatatgt tactgacaga
+     1681 ggaagacaaa aagctgttac cctaacggac acaacaaatc agaagactga gttacaagca
+     1741 atttatctag ctttgcagga ctcgggatta gaagtaaaca tagtaacaga ctcacaatat
+     1801 gcattaggaa tcattcaagc acaaccagat aaaagtgagt cagaaatagt cagtcaaata
+     1861 atagaacagt taataaacaa ggaaaaagta tacctggcat gggtaccagc acacaaaggg
+     1921 ataggaggaa atgaacaagt agataaatta gtcagtactg gaatcaggaa agtactattt
+     1981 ttagatggaa tagataaagc ccaagaagaa catgagaaat atcacaataa ttggagagca
+     2041 atggctagtg attttaacct gccacctgtg gtagcaaaag aaatagtagc ctgctgtgat
+     2101 aaatgtcagc taaaaggaga agccatgcat ggacaagtag actgtagccc aggaatatgg
+     2161 caactagatt gtacacatct agaaggaaaa gttatcctgg tagcagttca tgtagccagt
+     2221 ggatatatag aagcagaagt tattccagca gagacagggc aggaaacagc atactttctc
+     2281 ttaaaattag caggaagatg gccagtaaaa gcaatacata cagacaatag yagcaatttc
+     2341 aycagtgctg cggttaaggc cgcctgttgg tgggcgggaa tcaagcagga atttggtatt
+     2401 ccctacaacc cccaaagtca aggagtagta gaatctatga ataaagaatt aaagaaaatt
+     2461 ataggacagg taagagatca agctgaacat cttaagacag cagtacaaat ggcagtattc
+     2521 atccacaatt ttaaaagaaa aggggggatt ggggagtaca gtgcagggga aagaatagta
+     2581 gacataatag caacagacat acaaactaaa gaattacaaa aacaaattac aaaaattcaa
+     2641 aattttcggg tttattacag ggacagcaga gatccacttt ggaaaggacc agcaaagctt
+     2701 ytctggaaag gtgaaggggc agtagtaata caagataata gtgatataaa agtagtgcca
+     2761 agaagaaaag caaagatcat tagggattat ggaaaacaga tggcaggtga tgattgtgtg
+     2821 gcaagtagac aggatgagga ttag
+//
+

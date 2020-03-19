@@ -1,0 +1,80 @@
+LOCUS       HM586408                 570 bp    DNA     linear   VRL 25-JUL-2016
+DEFINITION  HIV-1 isolate MM47d402_GB1 from United Kingdom gag protein (gag)
+            gene, partial cds.
+ACCESSION   HM586408
+VERSION     HM586408.1
+KEYWORDS    .
+SOURCE      Human immunodeficiency virus 1 (HIV-1)
+  ORGANISM  Human immunodeficiency virus 1
+            Viruses; Retro-transcribing viruses; Retroviridae;
+            Orthoretrovirinae; Lentivirus; Primate lentivirus group.
+REFERENCE   1  (bases 1 to 570)
+  AUTHORS   Turnbull,E.L., Wong,M., Wang,S., Wei,X., Jones,N.A., Conrod,K.E.,
+            Aldam,D., Turner,J., Pellegrino,P., Keele,B.F., Williams,I.,
+            Shaw,G.M. and Borrow,P.
+  TITLE     Kinetics of expansion of epitope-specific T cell responses during
+            primary HIV-1 infection
+  JOURNAL   J. Immunol. 182 (11), 7131-7145 (2009)
+   PUBMED   19454710
+REFERENCE   2  (bases 1 to 570)
+  AUTHORS   Wang,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-JUN-2010) Medicine, University of Alabama at
+            Birmingham, 720 20th Street South, Birmingham, AL 35294, USA
+COMMENT     Annotation information was provided by the author.  Some of the
+            information does not have GenBank feature identifiers and is being
+            provided in the comment section. Information in this section is
+            searchable in HIV Database at Los Alamos (www.hiv.lanl.gov).
+            
+            ##HIVDataBaseData-START##
+            Patient code                :: MM47
+            Sequence Name               :: MM47d402_GB1
+            Subtype                     :: C
+            Patient cohort              :: HIV seroconverter cohort
+            Patient health status       :: Chronic HIV infection (no ART)
+            Patient sex                 :: Male
+            Risk Factor                 :: MSM
+            Viral Load                  :: 18,600
+            Sample city                 :: London
+            Infection date              :: 12-14-06
+            Sample tissue               :: plasma
+            Culture method              :: uncultured
+            Amplification strategy      :: single genome amplification
+            Days from onset of symptoms :: 402
+            CD4 count                   :: 670
+            DBID                        :: 1290710166
+            ##HIVDataBaseData-END##
+FEATURES             Location/Qualifiers
+     source          1..570
+                     /organism="Human immunodeficiency virus 1"
+                     /proviral
+                     /mol_type="genomic DNA"
+                     /isolate="MM47d402_GB1"
+                     /host="Homo sapiens"
+                     /db_xref="taxon:11676"
+                     /country="United Kingdom"
+                     /note="subtype: C"
+     gene            <1..>570
+                     /gene="gag"
+     CDS             <1..>570
+                     /gene="gag"
+                     /codon_start=1
+                     /product="gag protein"
+                     /protein_id="ADK75508.1"
+                     /translation="YPIVQNLQGQMVHQSISPRTLNAWVKVIEEKAFSPEVIPMFTAL
+                     SEGATPTDLNTMLNTVGGHQAAMQMLKDTINEEAAEWDRLHPVQAGPVAPGQMREPRG
+                     SDIAGTTSTLQEQIAWMTSNPPVPVGDIYKRWIILGLNKIVRMYSPVSILDIRQGPKE
+                     PFRDYVDRFFKTLRAEQATQDVKNWMTDTL"
+ORIGIN      
+        1 tatcctatag tgcagaatct acaagggcaa atggtacatc aatccatatc acctaggacc
+       61 ttgaacgcat gggtaaaagt aatagaggag aaggctttta gtccagaagt aatacccatg
+      121 tttacagcac tatcagaagg agccacccca acagatttaa acaccatgtt aaacacagtg
+      181 gggggacatc aagcagccat gcaaatgtta aaagacacta tcaatgaaga ggctgcagaa
+      241 tgggatagat tacatccagt acaggcaggg cctgttgcac caggccaaat gagagaacca
+      301 agaggaagtg acatagcagg aactactagt acccttcagg aacaaatagc atggatgaca
+      361 agtaacccac ctgttccagt gggagacatc tataaaagat ggataattct ggggcttaat
+      421 aaaatagtaa gaatgtatag ccctgtcagc attttggaca taagacaagg gccaaaggaa
+      481 ccctttagag attatgtaga ccggttcttt aaaactttaa gagctgaaca agctacacaa
+      541 gatgtaaaaa attggatgac agacaccttg
+//
+

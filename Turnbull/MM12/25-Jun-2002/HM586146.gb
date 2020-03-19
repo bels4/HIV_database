@@ -1,0 +1,108 @@
+LOCUS       HM586146                1051 bp    DNA     linear   VRL 25-JUL-2016
+DEFINITION  HIV-1 isolate MM12d487_D2 from United Kingdom envelope glycoprotein
+            (env) and rev protein (rev) genes, partial cds; and nef protein
+            (nef) gene, complete cds.
+ACCESSION   HM586146
+VERSION     HM586146.1
+KEYWORDS    .
+SOURCE      Human immunodeficiency virus 1 (HIV-1)
+  ORGANISM  Human immunodeficiency virus 1
+            Viruses; Retro-transcribing viruses; Retroviridae;
+            Orthoretrovirinae; Lentivirus; Primate lentivirus group.
+REFERENCE   1  (bases 1 to 1051)
+  AUTHORS   Turnbull,E.L., Wong,M., Wang,S., Wei,X., Jones,N.A., Conrod,K.E.,
+            Aldam,D., Turner,J., Pellegrino,P., Keele,B.F., Williams,I.,
+            Shaw,G.M. and Borrow,P.
+  TITLE     Kinetics of expansion of epitope-specific T cell responses during
+            primary HIV-1 infection
+  JOURNAL   J. Immunol. 182 (11), 7131-7145 (2009)
+   PUBMED   19454710
+REFERENCE   2  (bases 1 to 1051)
+  AUTHORS   Turnbull,E.L., Wong,M., Wang,S., Wei,X., Jones,N., Conrod,K.,
+            Aldam,D., Turner,J., Pellegrino,P., Keele,B.F., Williams,I.,
+            Shaw,G. and Borrow,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-JUN-2010) Medicine, University of Alabama at
+            Birmingham, 720 20th Street South, Birmingham, AL 35294, USA
+COMMENT     Annotation information was provided by the author.  Some of the
+            information does not have GenBank feature identifiers and is being
+            provided in the comment section. Information in this section is
+            searchable in HIV Database at Los Alamos (www.hiv.lanl.gov).
+            
+            ##HIVDataBaseData-START##
+            Patient code                :: MM12
+            Sequence Name               :: MM12d487_D2
+            Patient cohort              :: HIV seroconverter cohort
+            Patient health status       :: Chronic HIV infection (no ART)
+            Patient sex                 :: Male
+            Risk Factor                 :: Unknown
+            Viral Load                  :: 116000
+            Sample city                 :: London
+            Sample date                 :: 06.25.02
+            Sample tissue               :: plasma
+            Culture method              :: uncultured
+            Amplification strategy      :: single genome amplification
+            Days from onset of symptoms :: 487
+            CD4 count                   :: 270
+            Subtype                     :: G
+            ##HIVDataBaseData-END##
+FEATURES             Location/Qualifiers
+     source          1..1051
+                     /organism="Human immunodeficiency virus 1"
+                     /proviral
+                     /mol_type="genomic DNA"
+                     /isolate="MM12d487_D2"
+                     /host="Homo sapiens"
+                     /db_xref="taxon:11676"
+                     /country="United Kingdom"
+                     /collection_date="25-Jun-2002"
+                     /note="subtype: G"
+     gene            <1..265
+                     /gene="env"
+     CDS             <1..265
+                     /gene="env"
+                     /codon_start=2
+                     /product="envelope glycoprotein"
+                     /protein_id="ADK75205.1"
+                     /translation="IAARTVEHLGRSSLKGLRLGWEALKYLGNLLAYWGQELKNSAIN
+                     LLDTTAIAVANWTDRVIEIGQRAGRAIRNIPRRTRQGLERALL"
+     gene            <1..123
+                     /gene="rev"
+     CDS             <1..123
+                     /gene="rev"
+                     /codon_start=1
+                     /product="rev protein"
+                     /protein_id="ADK75204.1"
+                     /translation="HCSEDCGTSGTQQSQGTETGVGGPQVSGESSSILGAGTKE"
+     gene            267..902
+                     /gene="nef"
+     CDS             267..902
+                     /gene="nef"
+                     /codon_start=1
+                     /product="nef protein"
+                     /protein_id="ADK75206.1"
+                     /translation="MGGKWSKSSIVGWPQVRERIRQTPVRQNPPAAKGVGAASQDLDR
+                     HGAITSSNTAQTNPDCAWLEAQEEEEVGFPVKPQVPLRPMTYKGAIDLSHFLKEKGGL
+                     DGLIHSKKRQEILDLWVYHTQGFFPDWQNYTPGPGTRYPLTFGWCFKLVPMDPAEVEE
+                     ANAGENNSLLHPICQHGMEDEDREVLVWKFDSRLALRHRAQELHPEYYKDC"
+ORIGIN      
+        1 cattgcagcg aggactgtgg aacatctggg acgcagcagt ctcaagggac tgagactggg
+       61 gtgggaggcc ctcaagtatc tggggaatct tctagcatac tgggggcagg aactaaagaa
+      121 tagtgctatt aatttgcttg atacaacagc aatagcagta gctaactgga cagacagagt
+      181 tatagaaata ggacaaagag ctggtagagc tattcgcaac atacctagaa gaaccagaca
+      241 aggcctagaa agagctttgc tataacatgg gtggcaagtg gtcaaaaagc agcatagtag
+      301 gatggcccca ggttagggaa agaataaggc aaaccccagt aagacaaaac cctccagcag
+      361 caaaaggagt aggagcagca tctcaggatt tagatagaca tggagcaata acaagcagta
+      421 atacagcaca aactaatcct gactgtgcct ggctggaagc acaggaggaa gaggaggtag
+      481 gctttccagt caagccacag gtacctttga gaccaatgac ttataaagga gctatcgatc
+      541 tcagccactt tttaaaagaa aaggggggac tggatgggtt aattcactcc aagaaaagac
+      601 aagagatcct tgatttgtgg gtctatcaca cacaaggatt cttcccagat tggcagaact
+      661 acacaccagg gccagggact agatatccac tgacctttgg gtggtgcttc aaactagtac
+      721 caatggatcc agcagaggta gaggaagcca atgcaggaga gaacaacagt ttattacacc
+      781 ccatctgcca gcatggaatg gaggatgaag acagagaagt gctggtctgg aaatttgaca
+      841 gtcgcctggc attaagacac agagctcaag agctgcatcc ggagtactac aaagattgct
+      901 gacacaggag ttgctgacag ggactttcca ctggggactt tccggggagg agtggtttgg
+      961 gaggagttgg ggagtggcta accctcagac gctgcatata agcagctgct tctcgcctgt
+     1021 actgggtctc tcttgctaga ccagatttga g
+//
+

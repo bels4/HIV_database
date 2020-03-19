@@ -1,0 +1,78 @@
+LOCUS       HM586406                 569 bp    DNA     linear   VRL 02-AUG-2010
+DEFINITION  HIV-1 isolate MM47d402_GA3 from United Kingdom gag pseudogene,
+            partial sequence.
+ACCESSION   HM586406
+VERSION     HM586406.1
+KEYWORDS    .
+SOURCE      Human immunodeficiency virus 1 (HIV-1)
+  ORGANISM  Human immunodeficiency virus 1
+            Viruses; Retro-transcribing viruses; Retroviridae;
+            Orthoretrovirinae; Lentivirus; Primate lentivirus group.
+REFERENCE   1  (bases 1 to 569)
+  AUTHORS   Turnbull,E.L., Wong,M., Wang,S., Wei,X., Jones,N.A., Conrod,K.E.,
+            Aldam,D., Turner,J., Pellegrino,P., Keele,B.F., Williams,I.,
+            Shaw,G.M. and Borrow,P.
+  TITLE     Kinetics of expansion of epitope-specific T cell responses during
+            primary HIV-1 infection
+  JOURNAL   J. Immunol. 182 (11), 7131-7145 (2009)
+   PUBMED   19454710
+REFERENCE   2  (bases 1 to 569)
+  AUTHORS   Turnbull,E.L., Wong,M., Wang,S., Wei,X., Jones,N., Conrod,K.,
+            Aldam,D., Turner,J., Pellegrino,P., Keele,B.F., Williams,I.,
+            Shaw,G. and Borrow,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-JUN-2010) Medicine, University of Alabama at
+            Birmingham, 720 20th Street South, Birmingham, AL 35294, USA
+COMMENT     Annotation information was provided by the author.  Some of the
+            information does not have GenBank feature identifiers and is being
+            provided in the comment section. Information in this section is
+            searchable in HIV Database at Los Alamos (www.hiv.lanl.gov).
+            
+            ##HIVDataBaseData-START##
+            Patient code                :: MM47
+            Sequence Name               :: MM47d402_GA3
+            Patient cohort              :: HIV seroconverter cohort
+            Patient health status       :: Chronic HIV infection (no ART)
+            Patient sex                 :: Male
+            Risk Factor                 :: MSM
+            Viral Load                  :: 18600
+            Sample city                 :: London
+            Sample date                 :: 12.14.06
+            Sample tissue               :: plasma
+            Culture method              :: uncultured
+            Amplification strategy      :: single genome amplification
+            Days from onset of symptoms :: 402
+            CD4 count                   :: 670
+            Subtype                     :: C
+            ##HIVDataBaseData-END##
+FEATURES             Location/Qualifiers
+     source          1..569
+                     /organism="Human immunodeficiency virus 1"
+                     /proviral
+                     /mol_type="genomic DNA"
+                     /isolate="MM47d402_GA3"
+                     /host="Homo sapiens"
+                     /db_xref="taxon:11676"
+                     /country="United Kingdom"
+                     /collection_date="14-Dec-2006"
+                     /note="subtype: C"
+     gene            <1..558
+                     /gene="gag"
+                     /pseudo
+     CDS             <1..558
+                     /gene="gag"
+                     /pseudo
+                     /codon_start=1
+ORIGIN      
+        1 tatcctatag tgcagaatct acaagggcaa atggtacatc aatccatatc acctagaacc
+       61 ttgaacgcat gggtaaaagt aatagaggag aaggctttag tccagaagta atacccatgt
+      121 ttacagcact atcagaagga gccaccccaa cagatttaaa caccatgtta aacacagtgg
+      181 ggggacatca agcagccatg caaatgttaa aagacactat caatgaagag gctgcagaat
+      241 gggatagatt acatccagta caggcagggc ctgttgcacc aggccaaatg agagaaccaa
+      301 gaggaagtga catagcagga actactagta cccttcagga acaaatagca tggatgacaa
+      361 gtaacccacc tgttccagtg ggagacatct ataaaagatg gataattctg gggcttaata
+      421 aaatagtaag aatgtatagc cctgtcagca ttttggacat aagacaaggg ccaaaggaac
+      481 cctttagaga ttatgtagac cggttcttta aaactttaag agctgaacaa gctacacaag
+      541 atgtaaaaaa ttggatgaca gacaccttg
+//
+

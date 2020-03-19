@@ -1,0 +1,106 @@
+LOCUS       HM586557                1280 bp    DNA     linear   VRL 25-JUL-2016
+DEFINITION  HIV-1 isolate MM48d113_EC7 from United Kingdom envelope
+            glycoprotein (env) and vpu protein (vpu) genes, partial cds.
+ACCESSION   HM586557
+VERSION     HM586557.1
+KEYWORDS    .
+SOURCE      Human immunodeficiency virus 1 (HIV-1)
+  ORGANISM  Human immunodeficiency virus 1
+            Viruses; Retro-transcribing viruses; Retroviridae;
+            Orthoretrovirinae; Lentivirus; Primate lentivirus group.
+REFERENCE   1  (bases 1 to 1280)
+  AUTHORS   Turnbull,E.L., Wong,M., Wang,S., Wei,X., Jones,N.A., Conrod,K.E.,
+            Aldam,D., Turner,J., Pellegrino,P., Keele,B.F., Williams,I.,
+            Shaw,G.M. and Borrow,P.
+  TITLE     Kinetics of expansion of epitope-specific T cell responses during
+            primary HIV-1 infection
+  JOURNAL   J. Immunol. 182 (11), 7131-7145 (2009)
+   PUBMED   19454710
+REFERENCE   2  (bases 1 to 1280)
+  AUTHORS   Turnbull,E.L., Wong,M., Wang,S., Wei,X., Jones,N., Conrod,K.,
+            Aldam,D., Turner,J., Pellegrino,P., Keele,B.F., Williams,I.,
+            Shaw,G. and Borrow,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-JUN-2010) Medicine, University of Alabama at
+            Birmingham, 720 20th Street South, Birmingham, AL 35294, USA
+COMMENT     Annotation information was provided by the author.  Some of the
+            information does not have GenBank feature identifiers and is being
+            provided in the comment section. Information in this section is
+            searchable in HIV Database at Los Alamos (www.hiv.lanl.gov).
+            
+            ##HIVDataBaseData-START##
+            Patient code                :: MM48
+            Sequence Name               :: MM48d113_EC7
+            Patient cohort              :: HIV seroconverter cohort
+            Patient health status       :: Acute HIV infection (no ART)
+            Patient sex                 :: Male
+            Risk Factor                 :: Unknown
+            Viral Load                  :: 5200
+            Sample city                 :: London
+            Sample date                 :: 03.14.06
+            Sample tissue               :: plasma
+            Culture method              :: uncultured
+            Amplification strategy      :: single genome amplification
+            Days from onset of symptoms :: 113
+            CD4 count                   :: 850
+            Subtype                     :: B
+            ##HIVDataBaseData-END##
+FEATURES             Location/Qualifiers
+     source          1..1280
+                     /organism="Human immunodeficiency virus 1"
+                     /proviral
+                     /mol_type="genomic DNA"
+                     /isolate="MM48d113_EC7"
+                     /host="Homo sapiens"
+                     /db_xref="taxon:11676"
+                     /country="United Kingdom"
+                     /collection_date="14-Mar-2006"
+                     /note="subtype: B"
+     gene            1..>1280
+                     /gene="env"
+     CDS             1..>1280
+                     /gene="env"
+                     /codon_start=1
+                     /product="envelope glycoprotein"
+                     /protein_id="ADK75759.1"
+                     /translation="MRVMGIKKNYQHWWKGGILLLGMLVMICSGVEQLWVTVYYGVPV
+                     WKEATTTLFCASDAKAYNPEVHNVWATHACVPTDPDPQELVLENVTENFNMWKNNMVE
+                     QMHEDIISLWDQSLKPCVKLTPLCVTLNCTDNLKPLQNTNTNTTTATSPKMEPGEMGE
+                     IKNCSFNITTNIRDKVKKEHALFYSLDVVPIEKDNTSYRLISCNTSVITQACPKVTFE
+                     PIPIHYCAPAGFAILKCKDKKFNGIGPCTKVSTVQCTHGIRPVVSTQLLLNGSLAEEE
+                     VVIRSENFTNNAKSIIVQLKDPVVINCTRPNNNTRRSIHIAPGRAFYAAKDIIGDIRQ
+                     AHCNLSRADWNKTLGQIAGKLREQFKNKTIVFNQPSGGDPEIIMHTFNCGGEFFYCNT
+                     TQLFNSTWTGNDTRNGTWKDESNNNITLPCRIKQ"
+     gene            <1..86
+                     /gene="vpu"
+     CDS             <1..86
+                     /gene="vpu"
+                     /codon_start=3
+                     /product="vpu protein"
+                     /protein_id="ADK75758.1"
+                     /translation="ESDGDQEELSALVERGHLAPWNVSDDL"
+ORIGIN      
+        1 atgagagtga tggggatcaa gaagaattat cagcattggt ggaaaggggg catcttgctc
+       61 cttggaatgt tagtgatgat ctgtagtggt gtagaacaat tgtgggtcac agtctattat
+      121 ggggtacctg tgtggaaaga agcaaccacc actctatttt gtgcatcaga tgctaaagca
+      181 tataacccag aggtacataa tgtttgggcc acacatgcct gtgtacccac agaccctgac
+      241 ccacaagaat tagtattgga gaatgtgaca gaaaatttta acatgtggaa aaataacatg
+      301 gtagaacaga tgcatgagga tataattagt ctatgggatc aaagcctgaa gccatgtgta
+      361 aaattaaccc cactctgtgt tactctaaat tgcacggata atttaaagcc attacaaaat
+      421 actaatacta acaccacaac cgctactagc cccaagatgg agccaggaga aatgggagaa
+      481 ataaaaaatt gctctttcaa tatcaccaca aacataagag ataaggtgaa gaaagaacac
+      541 gcactttttt atagccttga tgtagtaccg atagaaaaag ataatactag ctataggttg
+      601 ataagttgta acacctcagt cattacacag gcctgtccaa aggtaacctt tgaaccaatt
+      661 cccatacatt attgtgcccc ggctggtttt gcgattctaa agtgtaaaga taagaagttc
+      721 aatggaatag gaccatgtac aaaagtcagc acagtacaat gtacacatgg aattaggcca
+      781 gtagtatcaa ctcaactgct cttaaatggc agtctggcag aagaagaggt agtaattagg
+      841 tctgaaaatt tcacgaacaa tgctaaatcc ataatagtac agctgaaaga ccctgtagta
+      901 attaattgta caagacccaa caacaataca agaagaagca tacatatagc accagggaga
+      961 gcattttatg cagcaaaaga tataatagga gatataagac aagcacattg taaccttagt
+     1021 agagcagact ggaataaaac cctaggacag atagctggca aattaagaga acagttcaag
+     1081 aataagacga tagtctttaa tcaaccctca ggaggagacc cagaaattat aatgcacact
+     1141 tttaattgtg gaggggaatt tttctactgt aatacaacac aactgtttaa tagtacctgg
+     1201 acgggtaatg atactcggaa tggtacttgg aaagatgagt caaataacaa tatcacactc
+     1261 ccctgtagaa taaaacaaat
+//
+

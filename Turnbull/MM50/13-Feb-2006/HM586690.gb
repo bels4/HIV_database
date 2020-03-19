@@ -1,0 +1,76 @@
+LOCUS       HM586690                 569 bp    DNA     linear   VRL 02-AUG-2010
+DEFINITION  HIV-1 isolate MM50d32_2B2 from United Kingdom env pseudogene,
+            partial sequence.
+ACCESSION   HM586690
+VERSION     HM586690.1
+KEYWORDS    .
+SOURCE      Human immunodeficiency virus 1 (HIV-1)
+  ORGANISM  Human immunodeficiency virus 1
+            Viruses; Retro-transcribing viruses; Retroviridae;
+            Orthoretrovirinae; Lentivirus; Primate lentivirus group.
+REFERENCE   1  (bases 1 to 569)
+  AUTHORS   Turnbull,E.L., Wong,M., Wang,S., Wei,X., Jones,N.A., Conrod,K.E.,
+            Aldam,D., Turner,J., Pellegrino,P., Keele,B.F., Williams,I.,
+            Shaw,G.M. and Borrow,P.
+  TITLE     Kinetics of expansion of epitope-specific T cell responses during
+            primary HIV-1 infection
+  JOURNAL   J. Immunol. 182 (11), 7131-7145 (2009)
+   PUBMED   19454710
+REFERENCE   2  (bases 1 to 569)
+  AUTHORS   Wang,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-JUN-2010) Medicine, University of Alabama at
+            Birmingham, 720 20th Street South, Birmingham, AL 35294, USA
+COMMENT     Annotation information was provided by the author.  Some of the
+            information does not have GenBank feature identifiers and is being
+            provided in the comment section. Information in this section is
+            searchable in HIV Database at Los Alamos (www.hiv.lanl.gov).
+            
+            ##HIVDataBaseData-START##
+            Patient code                :: MM50
+            Sequence Name               :: MM50d32_2B2
+            Subtype                     :: B
+            Patient cohort              :: HIV seroconverter cohort
+            Patient health status       :: Acute HIV infection (no ART)
+            Patient sex                 :: Male
+            Risk Factor                 :: MSM
+            Viral Load                  :: 127,400
+            Sample city                 :: London
+            Infection date              :: 2-13-06
+            Sample tissue               :: plasma
+            Culture method              :: uncultured
+            Amplification strategy      :: single genome amplification
+            Days from onset of symptoms :: 32
+            CD4 count                   :: 400
+            DBID                        :: 323152119
+            ##HIVDataBaseData-END##
+FEATURES             Location/Qualifiers
+     source          1..569
+                     /organism="Human immunodeficiency virus 1"
+                     /proviral
+                     /mol_type="genomic DNA"
+                     /isolate="MM50d32_2B2"
+                     /host="Homo sapiens"
+                     /db_xref="taxon:11676"
+                     /country="United Kingdom"
+                     /note="subtype: B"
+     gene            <1..>569
+                     /gene="env"
+                     /pseudo
+     CDS             <1..>569
+                     /gene="env"
+                     /pseudo
+                     /codon_start=1
+ORIGIN      
+        1 aatatcacac tcccatgcag aatgaaacaa attataaaca tgtggcaggg agtaggaagg
+       61 gcaacatatg cccctcccat ccaaggacta attaaatgtt catcaaatat tacagggctg
+      121 ctattaacaa gagatggtgg taacaataat actaatgaga ccttcagacc tggaggagga
+      181 gatatgaggg acaattggag aagtgaatta tacaaatata aagtagtaaa aattgagcca
+      241 ttaggaatag cacctactaa ggcaaggaga agggtggtgc aaagagaaaa aagagcagtg
+      301 acactgggag ctatgttcct tgggttcttg ggagcagcag gaagcactat gggcgcagcg
+      361 tcagtgacgc tgacggtaca ggccagacta ttattgtctg gtatagtgca acagcagaac
+      421 aatctgctga gagctattga ggcgcaacag catatgttgc aactcacagt ctggggcatt
+      481 aagcagctcc aggcaagagt cctggctgtg gaaagatacc taaaggatca acagctccta
+      541 gggatttggg gttgctctgg aaaactcat
+//
+
